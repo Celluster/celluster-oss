@@ -1,0 +1,13 @@
+{
+  "cla_type": "individual",
+  "allowlist": [
+    "github-actions[bot]",
+    "dependabot[bot]"
+  ],
+  "cla_content_file": "CLA.md",
+  "signed_label": "cla: yes",
+  "unsigned_label": "cla: no",
+  "recheck_comment": "recheck",
+  "project_name": "Celluster Open Source Project",
+  "contact": "nikhil77sharma@gmail.com"
+}
