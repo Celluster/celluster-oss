@@ -1,27 +1,34 @@
-# Contributing to Celluster
+# Contributing to Celluster (Docs-only for now)
 
-Thanks for your interest in Celluster 🎉 — contributions of all sizes are welcome!
+> **Status:** This repo currently accepts **documentation and discussion-only** contributions.
+> Implementation and code PRs will open after the non-provisional filing.
 
-## Quick Start
-1. **Fork** https://github.com/Celluster/celluster-oss and create a feature branch (`git checkout -b feature/your-change`).  
-2. **Sign the CLA once**: see [`SIGN_CLA.md`](SIGN_CLA.md).  
-3. **Code** (Go / TS), add tests/docs, run lint/format.  
-4. **Commit** with clear messages and open a **Pull Request**.  
-5. The **CLA check** and CI will run; address feedback and we’ll merge. 🙌
+## What we welcome
+- Clarifications, copy-edits, and structure improvements to docs
+- Architectural questions (concept level)
+- Use-case ideas and developer-experience suggestions
 
-## Ground Rules
-- Follow the **Apache‑2.0** licensing of the repo.  
-- Be respectful (see [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)).  
-- Small PRs are easier to review.  
-- Include docs or examples when changing behavior.
+## What we’re not accepting yet
+- Implementation details, pseudo-code, or reverse engineering
+- Scheduling/GC/reuse mechanisms or scaling internals
+- Any derivative architectures based on patented concepts
 
-## Communication
-- Public Slack: https://join.slack.com/t/celluster/shared_invite/zt-3f5ck0gsj-Ruj4AcKvkViX9uZkizvJcw  
-- Issues: https://github.com/Celluster/celluster-oss/issues  
-- Security reports: <nikhil77sharma@gmail.com> (private)
+## Process
+1. Open an Issue describing the change.
+2. Submit a PR referencing that Issue.
+3. **Sign the Individual Contributor License Agreement (ICLA)** before merge.
 
-## Development
-- Go ≥ 1.21, Node ≥ 18  
-- Run tests: `make test`  
-- Lint/format: `make lint` / `make fmt`
+Links:
+- **ICLA:** `./ICLA.md`
+- **CLA overview:** `./CLA.md`
+- **Patent notice:** `./PATENT_NOTICE.md`
 
+## License & IP
+- Docs in this repo: **Apache-2.0**
+- **Patent rights are separately governed** by `PATENT_NOTICE.md` and the ICLA.
+- By contributing, you confirm your contribution is original and that you have the right to license it under the terms above.
+
+## Community expectations
+- Be respectful. Big ideas welcome.
+- No fishing for implementation detail.
+- No screenshots or quotes from private discussions without permission.
