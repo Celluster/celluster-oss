@@ -5,11 +5,11 @@
 
 ## What we welcome
 - Clarifications, copy-edits, and structure improvements to docs
-- Architectural questions (concept level)
+- Architectural questions (**concept level**)
 - Use-case ideas and developer-experience suggestions
 
 ## What we’re not accepting yet
-- Implementation details, pseudo-code, or reverse engineering
+- Implementation details, pseudo-code, and/or **reverse engineering**
 - Scheduling/GC/reuse mechanisms or scaling internals
 - Any derivative architectures based on patented concepts
 
@@ -18,10 +18,10 @@
 2. Submit a PR referencing that Issue.
 3. **Sign the Individual Contributor License Agreement (ICLA)** before merge.
 
-Links:
-- **ICLA:** `./ICLA.md`
-- **CLA overview:** `./CLA.md`
-- **Patent notice:** `./PATENT_NOTICE.md`
+## Links:
+- **ICLA:** `**[ICLA.md](./ICLA.md)**
+- **CLA overview:** **[CLA.md](./CLA.md)**
+- **Patent notice:** **[PATENT_NOTICE.md](./PATENT_NOTICE.md)**
 
 ## License & IP
 - Docs in this repo: **Apache-2.0**

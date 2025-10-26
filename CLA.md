@@ -29,6 +29,20 @@ This summary is for convenience only; the legal terms are in `ICLA.md`.
 See full legal text: [`ICLA.md`](ICLA.md).
 
 ---
+Before any PR is merged, you must sign the **Individual Contributor License Agreement (ICLA)**.
+
+- **ICLA (sign here):** `[ICLA.md](./ICLA.md)  *(or provide your signing link if you’re using a form/bot)*
+- Company contributions will use a **Corporate CLA (CCLA)** upon request.
+
+**Why a CLA?**  
+To keep IP clean and unambiguous while we share **concepts only**. This protects both contributors and the project.
+
+**Notes**
+- Docs here are **Apache-2.0**.
+- **Patent rights are NOT granted by Apache-2.0.** Patent matters are governed by `PATENT_NOTICE.md` and the ICLA.
+- Do **not** include implementation details in any contribution at this time.
+
+---
 
 ## How the CLA is enforced
 

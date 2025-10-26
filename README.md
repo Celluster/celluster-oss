@@ -56,7 +56,9 @@ We currently accept:
 ✖️ No reverse engineering or pseudo-code  
 
 Before contributing, you must sign the **Individual Contributor License Agreement (ICLA)**.  
-See **[CONTRIBUTING.md](./CONTRIBUTING.md)** and **[CLA.md](./CLA.md)**.
+See: 
+**[CONTRIBUTING.md](./CONTRIBUTING.md)** and **[CLA.md](./CLA.md)**  and 
+**ICLA:** `**[ICLA.md](./ICLA.md)**
 
 ---
 
