@@ -8,18 +8,16 @@ Inventor: **Nikhil Sharma**
 Title: *Intent-Based Reflex Cell Architecture for AI-Native Infrastructure*
 Status: Patent Pending
 
-A full non-provisional patent is in preparation. Additional claims are forthcoming to expand coverage to scheduling, scaling, distributed execution contexts, and secure state continuity.
+>>A full non-provisional patent is in preparation. Additional claims are forthcoming to expand coverage to scheduling, scaling, distributed execution contexts, and secure state continuity.
 
-The invention introduces Reflex Cells — a compute substrate that eliminates orchestration cold-start delays by intelligently reusing execution context.
-
-It reimagines next-gen cloud for the AI era: no VMs, no containers, no Kubernetes.  
+The invention introduces Reflex Cells — a compute substrate that eliminates orchestration cold-start delays by intelligently reusing execution context. It reimagines next-gen cloud for the AI era: no VMs, no containers, no Kubernetes.  
 Workloads launch, adapt, and secure themselves based on intent and real-time telemetry.
 
 Built from first principles using QUIC + eBPF with identity-bound transport, Reflex Compute is designed for microsecond decisions, GPU locality, and bare-metal performance — all without control-plane overhead.
 
-These elements are protected under U.S. patent law.
+>>These elements are protected under U.S. patent law.
 
-This notice is provided for informational purposes only and does not grant any license, express or implied, to the patented material.
+>>This notice is provided for informational purposes only and does not grant any license, express or implied, to the patented material.
 
 ---
 
