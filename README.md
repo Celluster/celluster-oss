@@ -1,6 +1,11 @@
 # Celluster (OSS Preview)
 
 **Category:** **Reflex-Native Infrastructure** — intent-driven execution **without orchestration**  
+Origin & home of Reflex Compute. You are early.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#)
+[![CLA Required](https://img.shields.io/badge/CLA-required-orange.svg)](#)
+[![Status](https://img.shields.io/badge/Stage-Incubation-informational.svg)](#)
+
 A next-generation compute substrate where workloads launch, adapt, and secure themselves based on **intent** and **real-time telemetry** — not control planes.  
 **No VMs. No containers. No Kubernetes.** Built on QUIC + eBPF with identity-bound execution.
 
@@ -16,6 +21,21 @@ Traditional compute is built around orchestration, scheduling, and control. Cell
 - **State continuity & reuse** → warm execution without cold starts
 - **Telemetry-driven adaptation** → reflexive, self-correcting systems
 
+---
+
+## Core Concepts
+
+Conceptual overview only — implementation details are intentionally withheld.
+
+| Term | Meaning (High-Level) |
+|------|----------------------|
+| **Reflex Cell** | Minimal execution unit that reacts to **intent + telemetry** instead of orchestration commands |
+| **Reflex Engine** | Distributed decision layer that enables local, autonomous reactions at microsecond speed |
+| **Reflex Fabric** | Mesh of cooperating reflex cells exchanging state + signals across nodes |
+| **Reflex Verbs** | Primitive lifecycle actions (e.g., spawn, reroute, clone, upgrade, decay) used to express execution behavior |
+| **Reflex compute** | A new execution model where compute flows **react to conditions in real time**.  Workloads evolve based on **intent + telemetry**, not YAML or scheduling policies.|
+
+> **Note**: This section introduces **concepts only**. It does **not** expose implementation, state management, reuse logic, or scaling architecture. See **[PATENT_NOTICE.md](./PATENT_NOTICE.md)** for IP protection.
 ---
 
 ## What’s in this repo (today)

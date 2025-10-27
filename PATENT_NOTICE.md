@@ -5,7 +5,7 @@ This repository contains code, design artifacts, and semantic coordination logic
 **U.S. Provisional Patent Application No. 63/899,556**  
 Filed: **October 15, 2025**  
 Inventor: **Nikhil Sharma**  
-Title: **Intent-Based Reflex Cell Architecture for AI-Native Infrastructure**
+Title: **Intent Based Reflex Cell System for AI Native Infrastructure Without Orchestration**. 
 Status: **Patent Pending**
 
 >>A full non-provisional patent is in preparation. Additional claims are forthcoming to expand coverage to scheduling, scaling, distributed execution contexts, and secure state continuity.
