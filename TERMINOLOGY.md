@@ -38,7 +38,7 @@ between Cells across nodes, GPUs, and trust zones.
 A **distributed coordination layer** that interprets intent and telemetry to drive
 reflex behavior across Cells.
 
-### 🔹 Reflex Fabric
+### Reflex Fabric
 A distributed substrate that connects cells across nodes and clusters with **secure identity-bound transport**.  
 It propagates **state continuity and execution lineage** across machines without centralized orchestration.
 
@@ -99,14 +99,14 @@ Conceptual overview only — implementation details are intentionally withheld.
 | **Reflex Verbs** | Primitive lifecycle actions (e.g., spawn, reroute, clone, upgrade, decay) used to express execution behavior |
 | **Reflex compute** | A new execution model where compute flows **react to conditions in real time**.  Workloads evolve based on **intent + telemetry**, not YAML or scheduling policies.|
 
-> **Note**: This section introduces **concepts only**. It does **not** expose implementation, state management, reuse logic, or scaling architecture. See **[PATENT_NOTICE.md](./PATENT_NOTICE.md)** for IP protection.
+> **Note**: This section introduces **concepts only**. It does **not** expose implementation, state management, reuse logic, or scaling architecture.
 
 ---
 
 ### Legal Notice
 These terms are part of **U.S. Provisional Patent 63/899,556** and associated
 continuations. They are defined for clarity only and do not grant license,
-rights, or implementation permission. See **PATENT_NOTICE.md**.
+rights, or implementation permission. See **[PATENT_NOTICE.md](./PATENT_NOTICE.md)** for IP protection.
 
 ---
 
