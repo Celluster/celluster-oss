@@ -1,4 +1,4 @@
-# Terminology – Reflex Compute (Celluster)
+# Core Concepts (Reflex-Native Compute)
 
 This document defines the core terminology used in the Celluster project and the
 emerging category of **Reflex-Native Infrastructure**. These terms describe
